@@ -9,6 +9,7 @@ order: 6
 category: src/pages/category/bigplants.md
 section: Store
 template: product
+featured: true
 ---
 
 # Donec finibus
